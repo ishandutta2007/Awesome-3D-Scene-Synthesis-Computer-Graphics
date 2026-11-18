@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Synthesis-Computer-Graphics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Scene-Synthesis-Computer-Graphics?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Synthesis-Computer-Graphics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Scene-Synthesis-Computer-Graphics?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Synthesis-Computer-Graphics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Scene-Synthesis-Computer-Graphics?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Synthesis-Computer-Graphics/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-3D-Scene-Synthesis-Computer-Graphics" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Synthesis-Computer-Graphics/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" /></a>
@@ -62,9 +62,9 @@ A market-sorted overview of commercial cloud platforms providing 3D scene genera
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source frameworks for agentic 3D layout generation, single-image scene reconstruction, neural radiance fields (3DGS / NeRF), and foundational computer graphics engines. **Ranked strictly by GitHub Star Count (Descending)**.
+Curated open-source frameworks for agentic 3D layout generation, single-image scene reconstruction, neural radiance fields (3DGS / NeRF), and foundational computer graphics engines. **Ranked strictly by GitHub Stars_Count (Descending)**.
 
-| Repository | GitHub Stars | License | Primary Category | Description |
+| Repository | GitHub_Stars | License | Primary Category | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[godotengine/godot](https://github.com/godotengine/godot)** | [![Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers) | `MIT` | Real-Time Engine | Multi-platform 2D and 3D computer graphics game engine featuring Vulkan-based physical rendering, node architecture, and procedural world composition. |
 | **[mrdoob/three.js](https://github.com/mrdoob/three.js)** | [![Stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social&color=white)](https://github.com/mrdoob/three.js/stargazers) | `MIT` | WebGL / WebGPU Runtime | Standard JavaScript 3D library powering browser-native scene synthesis, Gaussian Splat viewers, PBR shaders, and XR environments. |
@@ -103,7 +103,7 @@ We welcome contributions from graphics engineers, spatial AI researchers, and 3D
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-my-awesome-tool`).
 3. 📝 **Add your tool or repository**:
    - For SaaS: Add to the SaaS table including valuation/scale, starting price, and specific free tier limits.
-   - For Open-Source: Add to the Open-Source table including the social star badge (`style=social&color=white`) linking to its stargazers page.
+   - For Open-Source: Add to the Open-Source table including the social Stars_Badge (`style=social&color=white`) linking to its stargazers page.
 4. 💾 **Commit your changes** (`git commit -m "feat: add my-awesome-tool"`).
 5. 🚀 **Push to your branch** (`git push origin add-my-awesome-tool`).
 6. 📬 **Submit a Pull Request** with a brief summary of the project and why it belongs in this ecosystem.
